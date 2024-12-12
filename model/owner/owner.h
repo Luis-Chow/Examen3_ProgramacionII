@@ -6,8 +6,8 @@ using namespace std;
 
 class Owner{
     private:
-    string cedula;
     string nombre;
+    string cedula;
     string email;
     string telefono;
     string pet;
